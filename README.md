@@ -2,8 +2,6 @@
 
 **FCAnon89**
 
-Open-source tools for games and creative work.  
-为游戏与创作开发实用工具。
 
 [![Followers](https://img.shields.io/github/followers/FCAnon89?label=followers&style=flat)](https://github.com/FCAnon89) [![SklandAutoSign stars](https://img.shields.io/github/stars/FCAnon89/SklandAutoSign?style=flat&label=SklandAutoSign%20stars)](https://github.com/FCAnon89/SklandAutoSign) [![ArknightsPixel stars](https://img.shields.io/github/stars/FCAnon89/ArknightsPixel?style=flat&label=ArknightsPixel%20stars)](https://github.com/FCAnon89/ArknightsPixel)
 
